@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	
+    <key>UIAppFonts</key>
+    <array>
+        <string>Poppins-Regular.ttf</string>
+        <string>Poppins-Medium.ttf</string>
+        <string>Poppins-Bold.ttf</string>
+        <string>Poppins-SemiBold.ttf</string>
+    </array>
+
+    <key>LSApplicationQueriesSchemes</key>
+    <array>
+        <string>tel</string>
+        <string>telprompt</string>
+    </array>
+
+    <key>NSContactsUsageDescription</key>
+    <string>This app needs access to contacts to let you select emergency contacts.</string>
+
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>This app needs access to your photo library to add contact photos.</string>
+
+    <key>NSCameraUsageDescription</key>
+    <string>This app needs access to your camera to take contact photos.</string>
+
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>Guardian Angel needs your location to find responders near you.</string>
+
+</dict>
+</plist>
+
