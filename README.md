@@ -1,0 +1,1 @@
+Guardian Angel is an iOS emergency alert application built with Swift and SwiftUI that enables users to trigger real-time panic alerts with precise geolocation, integrating Google Maps and a Node.js backend to identify nearby responders.
